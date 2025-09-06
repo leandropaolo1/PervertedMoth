@@ -6,6 +6,14 @@ The SLINO was a home-built International Moth concept — a carbon and foam “p
 
 ---
 
+## Preview
+
+![SLINO GA Perspective Excerpt](SLINO%20009%20-%20GA%20PERSPECTIVE%20EXCERPT.jpg)
+
+*General Arrangement Perspective (excerpt)*
+
+---
+
 ## ⚠️ Disclaimer
 
 These files are published as a **personal reference only**.  
